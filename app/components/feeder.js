@@ -2,9 +2,9 @@
 var React = require("react");
 
 // Here we include all of the sub-components
-var Flesh = require("./panels/Flesh");
-var Frog = require("./panels/Frog");
-var Tofu = require("./panels/Tofu");
+var Flesh = require("./panels/flesh");
+var Frog = require("./panels/frog");
+var Tofu = require("./panels/tofu");
 
 // This is the main component. It includes the banner and button.
 // Whenever you click the button it will communicate the click event to all other sub components.
